@@ -19,5 +19,5 @@ docker compose logs -f
 
 Accéder à l'interface Kibana
 ```
-http://localhot:5601
+http://localhost:5601
 ```
